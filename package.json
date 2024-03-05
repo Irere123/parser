@@ -1,0 +1,16 @@
+{
+  "name": "@irere/parser",
+  "version": "1.0.0",
+  "description": "Encode and decode JSON string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "encode",
+    "decode"
+  ],
+  "author": "Irere Emmanuel",
+  "license": "ISC"
+}
