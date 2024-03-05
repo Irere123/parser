@@ -1,5 +1,5 @@
 {
-  "name": "@irere/parser",
+  "name": "irere-parser",
   "version": "1.0.0",
   "publisher": "irereemmanuel",
   "description": "Encode and decode JSON string",
